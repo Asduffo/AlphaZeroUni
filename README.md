@@ -29,7 +29,7 @@ The project's folder structure is such that they are ready to be executed on the
 ## Checkpoints
 Connect4_final.pth is the final model, obtained after playing 2500 games.
 Connect4_midway.pth is an intermediary checkpoint, obtained after playing 1200 games.
-TicTacToe_100_searches_500_epochs.pth is the Tic-Tac-Toe agent's weights and TicTacToe_10_searches_500_epochs.pth is the agent used for the comparison described in section 4.2 of the report.
+TicTacToe_100_searches_500_epochs.pth is the Tic-Tac-Toe agent's weights and TicTacToe_10_searches_500_epochs.pth is the agent used for the comparison described in section 4.2.1 of the report.
 
 ## Agents comparison
 The tests which compared the various intermediate checkpoints against each other can be executed by running the PitConnect4Agents.py and PitTicTacToeAgents.py scripts.
